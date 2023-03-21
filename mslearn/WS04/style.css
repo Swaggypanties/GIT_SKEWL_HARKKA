@@ -15,11 +15,18 @@ figcaption{
 }
 .h2{
     text-align: center;
+    border-style: groove;
+    background-color: orange;
+    border-radius: 20px;
+    border-width: 10px;
+    width: 450px;
+    margin: auto;
 }
-.serious{
+.seriouss{
     text-align: center;
 }
-.wlcm{ font-size: 80px;
+.wlcm{ 
+    font-size: 80px;
 }
 .bar{
     width: 200px;
@@ -34,4 +41,13 @@ figcaption{
     font-size: 15px;
     position: relative; bottom: 25px;
     font-weight: bold;
+}
+.serious{
+    text-align: center;
+    border-style: groove;
+    background-color: orange;
+    border-radius: 20px;
+    border-width: 10px;
+    width: 300px;
+    margin: auto;
 }
