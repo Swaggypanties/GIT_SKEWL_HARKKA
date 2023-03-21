@@ -63,3 +63,16 @@ figcaption{
     width: 30%;
     
 }
+.h1{
+    text-align: center;
+    border-style: groove;
+    background-color: orange;
+    border-radius: 20px;
+    border-width: 10px;
+    width: 450px;
+    margin: auto;
+}
+.piggie{
+    background-color: papayawhip;
+    width: 217px;
+}
