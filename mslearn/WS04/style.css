@@ -26,7 +26,7 @@ figcaption{
     text-align: center;
 }
 .wlcm{ 
-    font-size: 80px;
+    font-size: 50px;
 }
 .bar{
     width: 200px;
@@ -54,4 +54,6 @@ figcaption{
 .link{
     font-size: 17px;
     background-color: papayawhip;
+    position: relative;
+    top: 65px;
 }
