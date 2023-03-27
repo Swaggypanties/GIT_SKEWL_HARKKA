@@ -13,3 +13,14 @@ body{
     right: 250px;
     bottom: 120px;
 }
+.para{
+    text-align: relative;
+    margin-left: 250px;
+    font-family:fantasy
+}
+.loki{
+    display: block;
+    margin: auto;
+    width: 30%;
+    
+}
