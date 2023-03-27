@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://www.creativefabrica.com/wp-content/uploads/2021/03/24/Luxury-dark-purple-Marble-background-Graphics-9910506-1-580x387.png);
+    background-repeat: repeat-y;
+    background-size: 200px;
+}
+.nav{
+    font-size: 30px;
+    color: yellow;
+}
+.title{
+    font-size: 19px;
+    color: yellow;
+    font-weight: bold;
+}
