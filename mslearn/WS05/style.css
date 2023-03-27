@@ -9,7 +9,8 @@ body{
     font-size: 40px;
     color: yellow;
     font-weight: bold;
-    text-align: center;
+    text-align:center; 
+    
 
     
 }
@@ -19,12 +20,12 @@ body{
     text-decoration: none;
 }
 .myDiv{
-    background-color: black;
+    background-color: purple;
     text-align: center;
    font-family: monospace;
    font-size: 20px;
    padding: 0px;
-   width: 1500px;
+   width: 1400px;
    color: whitesmoke; 
    height: 200px ;;
     
@@ -35,4 +36,14 @@ width: 20%;
 height: 1000px;
 background: black;
 padding: 20px;
+}
+.sleepy1{
+    position:relative;
+    left: 300px;
+    top: 84px;
+}
+.sleepy2{
+    position:relative;
+    right: 300px;
+    bottom: 75px;
 }
