@@ -1,0 +1,38 @@
+body{
+
+}
+.nav{
+    font-size: 40px;
+    color: yellow;
+}
+.title{
+    font-size: 40px;
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+
+    
+}
+.nav2 li a{
+    font-size: 40px;
+    color: yellow;
+    text-decoration: none;
+}
+.myDiv{
+    background-color: black;
+    text-align: center;
+   font-family: monospace;
+   font-size: 20px;
+   padding: 0px;
+   width: 1500px;
+   color: whitesmoke; 
+   height: 200px ;;
+    
+}
+.nav {
+float: left;
+width: 20%;
+height: 1000px;
+background: black;
+padding: 20px;
+}

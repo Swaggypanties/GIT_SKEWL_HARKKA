@@ -1,0 +1,40 @@
+body{
+ 
+}
+.torch1{
+    position:relative;
+    left: 250px;
+    top: 60px;
+}
+.torch2{
+    position:relative;
+    right: 250px;
+    bottom: 90px;
+}
+.para{
+    text-align: center;
+    font-size:40px;
+    font-family:fantasy;
+    margin: 0px;
+    
+}
+.loki{
+    display: block;
+    margin: auto;
+    width: 30%;
+    
+}
+.nav2 li a{
+    font-size: 40px;
+    color: yellow;
+    text-decoration: none;
+
+    
+}
+.myDiv{
+    color: yellow;
+}
+.title{
+    text-align: center;
+    margin: auto;
+}
