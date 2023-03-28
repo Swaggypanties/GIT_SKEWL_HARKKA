@@ -34,13 +34,7 @@ body{
    height: 200px;
     
 }
-.nav {
-float: left;
-width: 20%;
-height: 1000px;
-background: black;
-padding: 20px;
-}
+
 .sleepy1{
     position:relative;
     left: 300px;
@@ -62,6 +56,6 @@ padding: 20px;
   .dog{
     color: yellow;
     text-align: relative;
-    margin-left: 850px;
-    margin-top: 100px;
+    margin-left: 1000px;
+    margin-top: 95px;
   }

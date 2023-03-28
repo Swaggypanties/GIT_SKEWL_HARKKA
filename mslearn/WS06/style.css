@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(92, 198, 224);
+}
+.nav li a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+    position: relative;
+    font-size: 25px;
+    margin: left 400px ;
+}
+.header{
+    background-color:peachpuff;
+    font-family: monospace;
+    font-size: 100px;
+    margin: 0px;
+    text-align: relative;
+    margin-left: 230px;
+
+}
+nav{
+    float:left;
+  width: 195px;
+  background: peachpuff;
+  padding: 20px;
+  height: 1006px;
+  position: fixed;
+}
+.image{
+    position: fixed;
+
+}
+footer{
+    background-color: peachpuff;
+    text-align: center;
+    font-size: 15px;
+    left: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.gang{
+    margin-left: 500px;
+    width: 500px;
+    border: 10px;
+    border-style: groove;
+    border-color:peachpuff;
+    float: left;
+}
+.h4{
+    text-align: center;
+    font-size: 150px;
+    font-family: fantasy;
+
+}
+.container{
+    align-items: center;
+    justify-content: center;
+}
