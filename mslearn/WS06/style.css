@@ -7,7 +7,7 @@ body{
     color: black;
     padding-right: 10px;
     position: relative;
-    font-size: 25px;
+    font-size: 50px;
     margin: left 400px ;
 }
 .header{
@@ -60,4 +60,19 @@ footer{
 .para{
     font-size: 50px;
     padding-left: 20px;
+}
+.list{
+    margin-left: 50px;
+    font-size: 40px;
+    background-color: peachpuff;
+    width: fit-content;
+    border-style: dotted;
+
+
+}
+.textst{
+    padding-left: 980px;
+}
+h4{
+    margin-block-end: 100px;
 }
