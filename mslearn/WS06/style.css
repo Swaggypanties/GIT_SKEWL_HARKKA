@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(92, 198, 224);
+    background-color: rgba(92, 198, 224, 0.89);
 }
 .nav li a{
     list-style-type: none;
