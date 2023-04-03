@@ -10,6 +10,7 @@ body{
     font-size: 50px;
     margin: left 400px ;
 }
+
 .header{
     background-color:peachpuff;
     font-family: monospace;
@@ -24,11 +25,15 @@ nav{
   width: 195px;
   background: peachpuff;
   padding: 20px;
-  height: 1006px;
-  position: fixed;
+  height: 1350px;
+  position: absolute;
+  margin: 0;
+
+
 }
 .image{
     position: fixed;
+    z-index: 1;
 
 }
 footer{
@@ -78,3 +83,18 @@ footer{
 h4{
     margin-block-end: 100px;
 }
+.navhoz ul{
+    list-style-type: none;
+}
+.navhoz li{
+    display: inline;
+}
+.navhoz{
+    background-color: peachpuff;
+    text-align: center;
+    margin: 0px;
+    font-size: 40px;
+    overflow: hidden;
+}
+
+
