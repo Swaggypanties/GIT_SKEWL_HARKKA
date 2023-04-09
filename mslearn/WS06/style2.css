@@ -52,7 +52,7 @@ figcaption{
     margin: auto;
 }
 .link{
-    font-size: 17px;
+    font-size: 23px;
     background-color: papayawhip;
     position: relative;
     top: 65px;
@@ -78,19 +78,4 @@ figcaption{
 }
 .text{
     margin-left: 195px;
-}
-#l2{
-    background-color: pink;
-    border-style: groove;
-    float: right;
-    
-
-}
-#l3{
-    background-color: pink;
-    border-style: groove;
-    float: right;
-    margin-top: 150px;
-    
-
 }
